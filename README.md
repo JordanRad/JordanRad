@@ -9,7 +9,6 @@
 
 🚀 Learn & create!
 
-![](https://komarev.com/ghpvc/?username=JordanRad&color=blue)
 
 
 
