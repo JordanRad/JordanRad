@@ -5,7 +5,7 @@
 
 ----
 
-🔥 Young and passionate software developer.
+🔥 Young and passionate software engineer.
 
 📚 Last year @ Fontys University of Applied Sciences. 
 
