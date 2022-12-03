@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/JordanRad/JordanRad/blob/main/GH%20readme.gif" alt="JordanRad GH Header">
+  <img height="325em" src="https://github.com/JordanRad/JordanRad/blob/main/GH%20readme.gif" alt="JordanRad GH Header">
 </p>
 
 ----
@@ -15,6 +15,7 @@
 
 🚀 Learn, create, improve!
 
-
-
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=JordanRad&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JordanRad&layout=compact"/>
+<div>
