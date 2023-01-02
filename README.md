@@ -1,11 +1,4 @@
-
-<p align="center">
-  <img height="325em" src="https://github.com/JordanRad/JordanRad/blob/main/GH%20readme.gif" alt="JordanRad GH Header">
-</p>
-
-----
-
-🔥 Young and passionate software engineer.
+<h2>Young and passionate software engineer</h2>
 
 📚 Last year @ Fontys University of Applied Sciences. 
 
