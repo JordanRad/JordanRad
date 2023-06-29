@@ -9,6 +9,5 @@
 🚀 Learn, create, improve!
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=JordanRad&show_icons=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JordanRad&layout=compact"/>
 <div>
