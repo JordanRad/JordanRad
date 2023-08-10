@@ -12,11 +12,10 @@ Welcome to my GitHub profile! I'm a 23-year-old graduate from Fontys University 
 
 ### 🌱 What I'm Currently Up To:
 
-- 🔐 Building Highly Available IoT Solutions: I'm currently immersed in developing robust and secure IoT solutions that ensure high availability and reliability. Working with cutting-edge technologies to connect and manage IoT devices.
-
 - 🔄 Learning and Growing: The field of Computer Science is constantly evolving, and I'm committed to continuous learning by exploring new concepts.
 
-- 📫 How to reach me: dani.radushev@gmail.com and [LinkedIn Profile](https://www.linkedin.com/in/jordan-radushev-76665b1a4/)
+
+📫 How to reach me: dani.radushev@gmail.com and [LinkedIn Profile](https://www.linkedin.com/in/jordan-radushev-76665b1a4/)
 
  <hr/>
 
