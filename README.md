@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a 23-year-old graduate from Fontys University 
 
 ### 🚀 What I Love:
 
-- **Go Development:** I'm deeply passionate about the simplicity and power of Go. It's what I'm usingon a daily basis for crafting high-performance applications and scalable systems. Golang projects compiling... <img height="30px" src="https://github.com/JordanRad/JordanRad/blob/main/pngegg.png"/>
+- **Software Development:** I'm deeply passionate about the simplicity and power of Go. It's what I'm usingon a daily basis for crafting high-performance applications and scalable systems. Golang projects compiling... <img height="30px" src="https://github.com/JordanRad/JordanRad/blob/main/pngegg.png"/> Also, have TypeScript in my skillset for developing full-stack applications
 
 - **Problem Solving:** Nothing excites me more than encountering challenging problems and finding innovative solutions. I enjoy tackling complex cases head-on and coming up with creative ways to resolve them.
 
