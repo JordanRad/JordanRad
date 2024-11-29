@@ -1,26 +1,33 @@
-## Hey there! 👋 I'm Jordan - Fontys Graduate | Go Developer | Problem Solver!
+# 👋 Hey there, I'm Jordan!  
+**🎓 Fontys Graduate | 🛠️ Problem Solver | 💻 Software Engineer**
 
-Welcome to my GitHub profile! I'm a 23-year-old graduate from Fontys University with a degree in ICT & Software Engineering. As young and passionate software engineer, I thrive on creating efficient and elegant solutions to tackle complex cases.
+Welcome to my GitHub profile! I'm a **24-year-old ICT & Software Engineering graduate** from **Fontys University**, passionate about creating innovative and efficient solutions that make a real impact. 🚀  
 
-### 🚀 What I Love:
+---
 
-- **Software Development:** I'm deeply passionate about the simplicity and power of Go. It's what I'm usingon a daily basis for crafting high-performance applications and scalable systems. Golang projects compiling... <img height="30px" src="https://github.com/JordanRad/JordanRad/blob/main/pngegg.png"/> Also, have TypeScript in my skillset for developing full-stack applications
+### 🌟 **What I’m Passionate About**
+- **💡 Software Development:**  
+   Crafting high-performance applications in **Java** and **Go** is my daily grind. I thrive in building scalable systems that are both elegant and efficient.  
+   
+- **🧩 Problem Solving:**  
+   Complex challenges fuel my creativity. I enjoy rolling up my sleeves to devise neat, innovative solutions to tough problems.  
 
-- **Problem Solving:** Nothing excites me more than encountering challenging problems and finding innovative solutions. I enjoy tackling complex cases head-on and coming up with creative ways to resolve them.
+- **📚 Lifelong Learning:**  
+   The tech world evolves fast, and I’m here for it. From exploring **new concepts** to diving deep into **best practices**, learning never stops.
 
-- **Continuous Learning:** In the ever-evolving world of technology, I believe in the importance of constant learning and staying up-to-date with the latest industry trends and best practices.
+---
 
-### 🌱 What I'm Currently Up To:
+### 🔄 **What I’m Currently Up To**
+- **🌱 Growing as a Developer:**  
+   I’m exploring **Go concurrency**, **Spring Boot**, and **Redis** to sharpen my skills and stay ahead in the game.  
 
-- 🔄 Learning and Growing: The field of Computer Science is constantly evolving, and I'm committed to continuous learning by exploring new concepts.
+---
 
+### 📫 **Let’s Connect!**
+- **Email:** [dani.radushev@gmail.com](mailto:dani.radushev@gmail.com)  
+- **LinkedIn:** [Jordan Radushev](https://www.linkedin.com/in/jordan-radushev-76665b1a4/)  
 
-📫 How to reach me: dani.radushev@gmail.com and [LinkedIn Profile](https://www.linkedin.com/in/jordan-radushev-76665b1a4/)
-
- <hr/>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JordanRad&layout=compact"/>
-<div>
+---
 
 **🚀 Learn, create, improve!**
+
